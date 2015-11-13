@@ -190,8 +190,8 @@ public class MapBox extends AppCompatActivity implements
 
     public void createMap() {
         mapView = (MapView) this.findViewById(R.id.mapview);
-        mapView.setAccessToken("pk.eyJ1IjoibWFyaW9kZWNhc3RybyIsImEiOiJjaWY3MzM0czYwMXM3c2xsenBhMXZhaDV4In0.ZArC1jz2WHEiRX3u6vZWDQ");
-        mapView.setTileSource(new MapboxTileLayer("mariodecastro.nj6g39mc"));
+        mapView.setAccessToken("");
+        mapView.setTileSource(new MapboxTileLayer(""));
 
         mapView.setMinZoomLevel(5);
         mapView.setMaxZoomLevel(18);

@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">MapBoxApp</string>
     <string name="title_activity_ar">ARActivity</string>
-    <string name="metaioSDKSignature">IeXdFLSrfjj18LsGu0MtCX6TDTr6VVhCNdXBRu862Vo=</string>
+    <string name="metaioSDKSignature"></string>
     <string name="txtBtnCamera">Abrir Camera</string>
     <string name="imageDescription">Recurso Imagem</string>
 </resources>
